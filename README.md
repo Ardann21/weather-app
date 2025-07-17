@@ -1,12 +1,24 @@
-# React + Vite
+# 🌤️ Weather App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A sleek and responsive weather application built with **React** and **Tailwind CSS**, using the **OpenWeatherMap API** to provide real-time weather updates by city.
 
-Currently, two official plugins are available:
+🔗 **Live Demo: [https://Ardann21.github.io/weather-app]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ⚙️ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 🌎 Search weather by city name
+- 🌡️ View current temperature, humidity, wind speed, and general conditions
+- ☁️ Dynamic icons based on weather conditions
+- 🧭 Responsive design with clean UI
+- ❌ Error handling for invalid city names or failed API requests
+
+---
+
+## 🛠️ Tech Stack
+
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Axios](https://axios-http.com/) (for API requests)
+- [OpenWeatherMap API](https://openweathermap.org/)
