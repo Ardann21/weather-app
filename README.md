@@ -2,7 +2,7 @@
 
 A sleek and responsive weather application built with **React** and **Tailwind CSS**, using the **OpenWeatherMap API** to provide real-time weather updates by city.
 
-🔗 **Live Demo: [https://Ardann21.github.io/weather-app]
+🔗 **Live Demo**: [https://Ardann21.github.io/weather-app]
 
 ---
 
